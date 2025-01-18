@@ -72,3 +72,9 @@ cd Encrypt
 <br><br>
 
 ⭐️ From [KetapangCyberTeam](https://github.com/KetapangCyberTeam)
+
+# License
+This project is License under [Apache License](LICENSE).
+
+This project is *NOT FREE* you are *FORBIDDEN* to rename this script to something else
+You are *FORBIDDEN* to distribute or sell this script
